@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=J@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');ersey+25+Charted&display=swap');
+
+
+*{
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+body{
+   
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right,rgb(254, 254, 254),rgb(57, 223, 220));
+    
+}
+form{
+    height: 27rem;
+    width:25rem;
+    display: flex;
+    flex-direction: column;
+    background-color:rgba(46, 118, 120, 0.06);
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px 0px rgb(0, 0, 0,0.4); */ */
+    border-left-color:1px solid rgb(255, 255, 255) ;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 10%;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0,0.65);
+    margin-bottom: 10%;
+}
+label
+{
+    color: rgb(0, 0, 0,0.60);
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+input
+{
+    width:70%;
+    margin: 5% auto;
+    margin-bottom: 10%;
+    border: 0cap;
+    outline: 0ch;
+    background: transparent;
+   border-bottom: 1px solid rgb(0, 0, 0,0.60);
+   font-size: medium;
+
+}
+button{
+    width:38%;
+    margin-left: 30%;
+    border:0cap;
+    outline: 10px;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.75);
+    background-color: transparent;
+    background-color: rgba(60, 99, 106, 0.2);
+    border-radius: 5px;
+
+}
